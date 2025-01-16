@@ -1,7 +1,10 @@
 ## Hi there 👋
 # 💫 About Me:
 -  Three.js developer <br>
--  React developer <br>- 💬 Ask me about blender and web dev
+-  React developer <br>
+-  💬 Ask me about blender and web dev
+
+Don't look at my repositories, all my quality code is private.
 
 
 ## 🌐 Socials:
