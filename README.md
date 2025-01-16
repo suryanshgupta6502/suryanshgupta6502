@@ -1,6 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
-- 🌱 I’m currently learning three.js<br>- 💬 Ask me about blender and web dev
+-  Three.js developer <br>
+-  React developer <br>- 💬 Ask me about blender and web dev
 
 
 ## 🌐 Socials:
