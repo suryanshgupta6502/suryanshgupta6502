@@ -1,5 +1,5 @@
 ## Hi there 👋
-##Don't look at my repositories, all my quality code is private.
+## Don't look at my repositories, all my quality code is private.
 
 # 💫 About Me:
 -  Three.js developer <br>
